@@ -14,10 +14,15 @@ Desenvolvido por **Riolly Mikael**.
 
   <br><br>
 
-  <!-- BOTÕES DE ACESSO RÁPIDO -->
-  <a href="https://riollymikael.github.io/clinica-sorriso-landing-page/">
-    <img src="https://img.shields.io/badge/🌐_Acessar_Demo_Online-2563eb?style=for-the-badge" alt="Demo Online">
+ <!-- BOTÃO DE LIVE DEMO -->
+<p align="center">
+   <a href="https://riollymikael.github.io/clinica-sorriso-landing-page/">
+    <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-F2C94C?style=for-the-badge&logoColor=black&color=F2C94C" alt="Ver Demo">
   </a>
+</p>
+
+  
+  <!-- BOTÕES DE ACESSO RÁPIDO -->
   <a href="https://github.com/riollymikael/clinica-sorriso-landing-page">
     <img src="https://img.shields.io/badge/💻_Código_Fonte-100000?style=for-the-badge&logo=github" alt="Código Fonte">
   </a>
