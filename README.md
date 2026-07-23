@@ -5,60 +5,60 @@ Desenvolvido por **Riolly Mikael**.
 * **GitHub:** [@riollymikael](https://github.com/riollymikael)
   
 
-# 🦷 Clínica Sorriso - Landing Page Odontológica
+# 🦷 Clínica Sorriso — Landing Page Odontológica
 
-Uma landing page moderna, altamente conversiva e 100% responsiva para a **Clínica Sorriso**, desenvolvida para apresentar serviços odontológicos de excelência, equipe médica qualificada e agendamento prático de consultas.
+<div align="center">
 
-![Status do Projeto](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen)
-![Tecnologias](https://img.shields.io/badge/Tecnologias-HTML5%20%7C%20CSS3%20%7C%20JavaScript-blue)
+  <!-- IMAGEM DE PREVIEW -->
+  <img src="assets/images/preview.png" alt="Prévia da Landing Page Clínica Sorriso" width="100%">
 
----
+  <br><br>
 
-## 🔗 Link do Projeto
+  <!-- BOTÕES DE ACESSO RÁPIDO -->
+  <a href="https://riollymikael.github.io/clinica-sorriso-landing-page/">
+    <img src="https://img.shields.io/badge/🌐_Acessar_Demo_Online-2563eb?style=for-the-badge" alt="Demo Online">
+  </a>
+  <a href="https://github.com/riollymikael/clinica-sorriso-landing-page">
+    <img src="https://img.shields.io/badge/💻_Código_Fonte-100000?style=for-the-badge&logo=github" alt="Código Fonte">
+  </a>
+  <img src="https://img.shields.io/badge/📱_100%25_Responsivo-22c55e?style=for-the-badge" alt="Responsivo">
 
- visualize o site em funcionamento através do GitHub Pages:
-👉 **[Acessar a Landing Page da Clínica Sorriso](https://riollymikael.github.io/clinica-sorriso-landing-page/)**
+</div>
 
 ---
 
 ## 📌 Sobre o Projeto
 
-Este projeto foi construído do zero focado na **experiência do usuário (UX)** e em estratégias de **conversão (CRO)** para área da saúde e estética dental. O layout conta com uma hierarquia visual limpa, paleta de cores acolhedora e transmissão de autoridade profissional.
+Uma landing page moderna, altamente conversiva e 100% responsiva para a **Clínica Sorriso**, desenvolvida para apresentar serviços odontológicos de excelência, equipe médica qualificada e agendamento prático de consultas.
 
-### ✨ Principais Recursos:
-
-* **Hero Section Impactante:** Chamada para ação (CTA) visível e direta para agendamento.
-* **Apresentação Institucional:** Seção "Sobre Nós" destacando a estrutura da clínica.
-* **Corpo Clínico (Nossos Doutores):** Cards detalhados apresentando a equipe médica e especialidades.
-* **Tratamentos & Serviços:** Organização limpa dos procedimentos oferecidos.
-* **Depoimentos de Pacientes:** Prova social para maior credibilidade.
-* **Formulário de Agendamento:** Interface intuitiva para captação de clientes/pacientes.
-* **Design 100% Responsivo:** Adaptado perfeitamente para celulares, tablets e computadores.
+### ✨ Diferenciais do Layout:
+* ⚡ **Hero Section:** Chamada para ação (CTA) estratégica.
+* 👨‍⚕️ **Corpo Clínico:** Cards detalhados dos médicos da clínica.
+* 🏥 **Tratamentos:** Apresentação clara de procedimentos e especialidades.
+* 💬 **Depoimentos:** Prova social para geração de confiança.
+* 📱 **Layout Responsivo:** Perfeito para desktops, tablets e smartphones.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-O projeto foi desenvolvido com tecnologias web fundamentais para garantir máxima performance e rápido carregamento:
-
 * **HTML5:** Estruturação semântica e acessível.
-* **CSS3:** Estilização moderna, uso de Flexbox/Grid e design responsivo.
-* **JavaScript (ES6+):** Interatividade, validações e dinâmica de navegação.
+* **CSS3:** Design moderno, CSS Grid, Flexbox e animações.
+* **JavaScript:** Interatividade e validações.
 
 ---
 
-## 📁 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 
 ```text
 clinica-sorriso-landing-page/
 │
 ├── assets/
-│   └── images/          # Fotos da clínica, tratamentos e doutores
+│   └── images/          # Imagens do site e preview
 ├── css/
-│   └── style.css        # Estilos globais e responsividade
+│   └── style.css        # Estilos globais
 ├── js/
-│   └── script.js        # Lógica de interações e comportamento
-├── index.html           # Página principal da landing page
-├── .gitignore
-└── README.md            # Documentação do projeto
+│   └── script.js        # Lógica JavaScript
+├── index.html           # Página principal
+└── README.md            # Documentação
 
