@@ -16,7 +16,7 @@ Desenvolvido por **Riolly Mikael**.
 
  <!-- BOTÃO DE LIVE DEMO -->
 <p align="center">
-   <a href="https://riollymikael.github.io/clinica-sorriso-landing-page/">
+   <a href="https://riollymikael.github.io/LOJA-STREETWEAR-PREMIUM/">
     <img src="https://img.shields.io/badge/🚀_Ver_Demonstração_Online-F2C94C?style=for-the-badge&logoColor=black&color=F2C94C" alt="Ver Demo">
   </a>
 </p>
